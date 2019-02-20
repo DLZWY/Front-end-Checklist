@@ -3,8 +3,11 @@ A checklist about web technologies makes us strong and stronger...
 
 
 ## JS Basic Knowledge
-* 33 concepts every javascript developer should know
+* [33 concepts every javascript developer should know](./guide/js-basic/33-concepts)
 * ES6-ES2018
+
+## Front-end interview in Chinese
+* [Directly hit the big factory Front-end interview](./guide/interview/readme.md)
 
 ## JS Extension
 * TypeScript(JS superset)
